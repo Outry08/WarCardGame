@@ -1,3 +1,6 @@
+## Author
+Ryan McKinnon
+
 ## Name
 War Card Game
 
