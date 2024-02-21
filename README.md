@@ -7,6 +7,10 @@ War Card Game
 ## Description
 A text-based recreation of the Card Game War in Java. Includes wars in the events of ties, as well as house rules like single-card gifts, and a turn counter that increases the amount of cards that trade hands as the game goes on.
 
+## Running The Program
+within project directory, 
+java WarCardGame.java
+
 ## Visuals
 Basic Turn Image:
 <img src="BasicTurn.png" alt="Basic Turn">
