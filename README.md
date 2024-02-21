@@ -15,7 +15,7 @@ War Turn Image (Occurs in event of tie):
 <img src="WarTurn.png" alt="War Turn">
 
 Gift Turn Image (Occurs in event of win by one card value):
-<img src="GiftTurn.png" alt="GiftTurn.png">
+<img src="GiftTurn.png" alt="Gift Turn">
 
 ## Roadmap
 Adding a GUI to this game instead of it just being text-based.
